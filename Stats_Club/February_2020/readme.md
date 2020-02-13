@@ -14,6 +14,7 @@ Some of the topics discussed:
 I'm looking forward to the next session! Hopefully everyone has their laptops ready to go!
 
 Kind regards,
+
 Charlotte
     
 
