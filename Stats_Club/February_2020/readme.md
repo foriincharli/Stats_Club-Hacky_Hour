@@ -18,7 +18,7 @@ Kind regards,
 Charlotte
     
 
-## Other Resources
+## Additional Resources
 
 [La Trobe Digital Research](https://www.latrobe.edu.au/research-infrastructure/digital-research/training-and-events) - Training courses for Excel, R, Python, UNIX, etc. Free to attend, just complete the Expression of Interest form!
 
