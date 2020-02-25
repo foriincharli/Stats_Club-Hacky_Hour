@@ -1,4 +1,10 @@
 # Stats Club + Hacky Hour
+
+Stats Club
+ - [12th Feb 2020 meeting notes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020)
+
+# About the Club
+
 AgriBio Stats Club + Hacky Hour meetings will link graduate researchers with career researchers from Agriculture Victoria and La Trobe University in an informal, peer learning environment to promote best practice statistics in biology.
 
 Participants will take turns in lead meetings with a topic of their choosing. Meetings are run fortnightly, but it is up to participants how often they’d like to attend.
