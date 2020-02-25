@@ -1,9 +1,6 @@
 # Stats Club + Hacky Hour
-
-**Stats Club**
- - [12th Feb 2020 meeting notes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020)
  
- First Header | Stats Club | Hacky Hour
+  | Stats Club | Hacky Hour
 ------------ | ------------- | -------------
 February | [Minutes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | Hacky Hour TBA
 March |  | 
