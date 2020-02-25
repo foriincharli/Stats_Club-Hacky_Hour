@@ -2,9 +2,6 @@
 
 **Stats Club**
  - [12th Feb 2020 meeting notes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020)
- 
-  | Stats Club | Hacky Hour
-February | [12th Feb 2020 meeting notes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | 26th Feb 2020 meeting notes TBA
 
 # About the Club
 
