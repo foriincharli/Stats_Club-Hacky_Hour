@@ -26,7 +26,7 @@ At the beginning of each session, the presenter tells the group what their exper
 
 [La Trobe Digital Research](https://www.latrobe.edu.au/research-infrastructure/digital-research/training-and-events) - Training courses for Excel, R, Python, UNIX, etc. Free to attend, just complete the Expression of Interest form!
 
-[Laerd Statistics](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php) - This is geared towards SPSS, but goes into the theory of various statistical tests in an accessible way.
+[Laerd Statistics](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php) - This is SPSS-specific, but it approaches the theory of various statistical tests in an accessible way.
 
 [Modern Statistics for the Modern Biology](http://web.stanford.edu/class/bios221/book/) - Suggested by Alex (thanks!) as reading material for beginner statisticians.
 
