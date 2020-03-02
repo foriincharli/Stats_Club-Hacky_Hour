@@ -24,7 +24,7 @@ Charlotte
 
 [Laerd Statistics](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php) - This is geared towards SPSS, but goes into the theory of various statistical tests in an accessible way.
 
-[Modern Statistics for the Modern Biology](http://web.stanford.edu/class/bios221/book/) - Suggested by Alex (thanks!) as reading material for beginner statisticians.
+[Modern Statistics for the Modern Biology](http://web.stanford.edu/class/bios221/book/) - Suggested by [Alex](https://github.com/alexpiper) (thank you!) as reading material for beginner statisticians in biology.
 
 [R for Data Science](https://r4ds.had.co.nz/) - This is written by the chief scientist of RStudio, Hadley Wickham, whose philosophy is that the data visualisation and manipulation comes first, and the coding second.
 
