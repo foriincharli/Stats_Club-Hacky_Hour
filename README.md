@@ -28,7 +28,7 @@ At the beginning of each session, the presenter tells the group what their exper
 
 [Laerd Statistics](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php) - This is SPSS-specific, but it approaches the theory of various statistical tests in an accessible way.
 
-[Modern Statistics for the Modern Biology](http://web.stanford.edu/class/bios221/book/) - Suggested by Alex (thanks!) as reading material for beginner statisticians.
+[Modern Statistics for the Modern Biology](http://web.stanford.edu/class/bios221/book/) - Suggested by [Alex](https://github.com/alexpiper) (thank you!) as reading material for beginner statisticians.
 
 [R for Data Science](https://r4ds.had.co.nz/) - This is written by the chief scientist of RStudio, Hadley Wickham, whose philosophy is that the data analysis comes first, and coding is learnt along the way.
 
