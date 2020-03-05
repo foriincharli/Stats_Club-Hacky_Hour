@@ -1,13 +1,7 @@
----
-title: "AgriBio Stats Club + Hacky Hour"
-author: "Introduction to R and pretty graphs with ggplot2"
-date: "February 26th, 2020"
-output: 
-  html_document:
-    keep_md: true
----
 
-
+# AgriBio Stats Club + Hacky Hour
+## Introduction to R and pretty graphs with ggplot2
+February 26th, 2020
 
 **Objectives of today's lesson:**
 
@@ -302,7 +296,7 @@ ggplot(df_1, aes(x = as.factor(Genotype),
     xlab("cyl")
 ```
 
-![](hh_feb_2020_v3_files/figure-html/data_to_vis_boxplot-1.png)<!-- -->
+![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_1.png)<!-- -->
 
 <img src="graph_1.png" width="100%" />
 
@@ -317,7 +311,7 @@ ggplot(df_1, aes(x = as.factor(Genotype),
     xlab("Genotype") #
 ```
 
-![](hh_feb_2020_v3_files/figure-html/data_to_vis_boxplot_2-1.png)<!-- -->
+![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_2.png)<!-- -->
 
 <img src="graph_2.png" width="100%" />
 
@@ -340,7 +334,7 @@ ggplot(df_1, aes(x = as.factor(Genotype),
     theme(legend.position = "bottom")
 ```
 
-![](hh_feb_2020_v3_files/figure-html/data_to_vis_extra-1.png)<!-- -->
+![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_3.png)<!-- -->
 
 <img src="graph_3.png" width="100%" />
 
