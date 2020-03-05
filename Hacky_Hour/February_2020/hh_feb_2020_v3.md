@@ -265,7 +265,7 @@ head(df_1, 10)
 
 Base R certainly has graphing capabilites, but graphs produced using the package ggplot2 are customisable to the nth degree. Below is an example of a graph made using base R. 
 
-![](hh_feb_2020_v3_files/figure-html/pressure-1.png)<!-- -->
+![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/pressure-1.png)<!-- -->
 
 While this may be enough for some purposes, sometimes we want to make something more tailored. For example, I always use the same colours for genotypes and treatments in all my graphs regardless of the type of graph I'm making. Let's go ahead and install and load the package ggplot2. The function install.packages() downloads packages from repositories and installs them. Here's a [more comprehensive introduction to ggplot2](https://uc-r.github.io/ggplot_intro)
 
