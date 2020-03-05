@@ -344,5 +344,3 @@ This document was produced in R using R Markdown.
 
 - If you're really keen on pretty R Markdown documents see <https://holtzy.github.io/Pimp-my-rmd/>. 
 
-Data frames were rendered using the package lemon.
-
