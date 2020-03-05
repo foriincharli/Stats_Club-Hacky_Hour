@@ -103,12 +103,8 @@ When this code is executed, the output will appear in the console. This provides
 
 I personally like to think of variables as nicknames or shortcuts to access data or values. Some liken it to a container with a name that contains data or values. New variables (nicknames) can be created and assigned values using <- or =.
 
-<style>
-div.gray { background-color:#a0a0a0; border-radius: 2px; padding: 5px;}
-</style>
-<div class = "blue">
 **The keyboard shortcut for the assignment operator is alt + - (Windows)** 
-</div>
+
 <br>
 I often wonder how old I would be if I lived on Mercury. Mercury orbits the Sun in just 88 Earth days! To get my age in Mercurian years, I need to calculate my age in days and divide that result by 88. 
 
