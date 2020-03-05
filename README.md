@@ -2,7 +2,7 @@
  
  ~ | Stats Club | Hacky Hour
 ------------ | ------------- | -------------
-February | [Minutes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | Hacky Hour TBA
+February | [Minutes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | [Lesson plan and dataset](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Hacky_Hour/February_2020)
 March |  | 
 
 # About the Club
