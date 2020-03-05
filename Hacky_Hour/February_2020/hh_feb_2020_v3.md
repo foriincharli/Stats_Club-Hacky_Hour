@@ -298,8 +298,6 @@ ggplot(df_1, aes(x = as.factor(Genotype),
 
 ![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_1.png)<!-- -->
 
-<img src="graph_1.png" width="100%" />
-
 From the code we copied from Data-to-Viz, all we had to change at this step was the data to be plotted, the x and y axes. This graph is certainly what we're after, but it's not correct. The x axis displays genotypes 1 and 2, but all of the treatments are merged into each other. There should be three distinct boxplots within each genotype. Let's add a few extra graph elements to fix this. 
 
 
@@ -333,8 +331,6 @@ ggplot(df_1, aes(x = as.factor(Genotype),
 ```
 
 ![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_3.png)<!-- -->
-
-<img src="graph_3.png" width="100%" />
 
 You can continue to customise this graph to remove the grey grid background or put the legend position wherever you'd like. This can be done within theme().
 
