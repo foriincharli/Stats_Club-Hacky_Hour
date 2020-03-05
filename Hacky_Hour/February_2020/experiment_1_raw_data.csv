@@ -1,0 +1,122 @@
+Genotype,Plate,Treatment,plant_weight,root_length,lateral_number,lateral_density
+Genotype 1,1,Control,3.8,57,7,0.123
+Genotype 1,1,Control,6.2,73,11,0.151
+Genotype 1,1,Control,5.3,65,12,0.185
+Genotype 1,1,Control,3.6,60,10,0.167
+Genotype 1,1,Control,2.5,50,7,0.14
+Genotype 1,1,Control,6.2,71,14,0.197
+Genotype 1,2,Control,2.6,50,5,0.1
+Genotype 1,2,Control,4.3,43,1,0.023
+Genotype 1,2,Control,4.7,64,11,0.172
+Genotype 1,2,Control,7,74,13,0.176
+Genotype 1,2,Control,4.6,66,11,0.167
+Genotype 1,2,Control,3.1,54,8,0.148
+Genotype 1,2,Control,2,47,2,0.043
+Genotype 1,3,Control,5.1,62,14,0.226
+Genotype 1,3,Control,5.1,65,10,0.154
+Genotype 1,3,Control,6.8,70,15,0.214
+Genotype 1,3,Control,7,75,15,0.2
+Genotype 1,3,Control,6.3,74,13,0.176
+Genotype 1,3,Control,6.5,76,16,0.211
+Genotype 1,3,Control,5.9,71,14,0.197
+Genotype 1,1,Treatment 1,9.7,85,22,0.259
+Genotype 1,1,Treatment 1,9.9,86,24,0.279
+Genotype 1,1,Treatment 1,10.2,88,21,0.239
+Genotype 1,1,Treatment 1,7.8,80,19,0.238
+Genotype 1,1,Treatment 1,7.3,80,17,0.213
+Genotype 1,1,Treatment 1,6.2,71,16,0.225
+Genotype 1,1,Treatment 1,7.6,83,21,0.253
+Genotype 1,2,Treatment 1,9,83,20,0.241
+Genotype 1,2,Treatment 1,9,85,18,0.212
+Genotype 1,2,Treatment 1,10.5,87,19,0.218
+Genotype 1,2,Treatment 1,8.4,84,18,0.214
+Genotype 1,2,Treatment 1,9.5,86,21,0.244
+Genotype 1,2,Treatment 1,6.1,74,17,0.23
+Genotype 1,2,Treatment 1,6.8,79,19,0.241
+Genotype 1,3,Treatment 1,6.5,65,21,0.323
+Genotype 1,3,Treatment 1,8.1,83,23,0.277
+Genotype 1,3,Treatment 1,6.1,72,19,0.264
+Genotype 1,3,Treatment 1,7.3,79,17,0.215
+Genotype 1,3,Treatment 1,6.9,80,21,0.263
+Genotype 1,3,Treatment 1,6.5,76,17,0.224
+Genotype 1,3,Treatment 1,4.5,65,12,0.185
+Genotype 1,1,Treatment 2,11.9,88,21,0.239
+Genotype 1,1,Treatment 2,10.1,85,17,0.2
+Genotype 1,1,Treatment 2,10.6,84,19,0.226
+Genotype 1,1,Treatment 2,9.3,80,17,0.213
+Genotype 1,1,Treatment 2,9,75,17,0.227
+Genotype 1,1,Treatment 2,6.4,70,17,0.243
+Genotype 1,1,Treatment 2,9.3,77,18,0.234
+Genotype 1,2,Treatment 2,13.4,88,30,0.341
+Genotype 1,2,Treatment 2,10.4,45,15,0.333
+Genotype 1,2,Treatment 2,13,87,23,0.264
+Genotype 1,2,Treatment 2,10.4,84,25,0.298
+Genotype 1,2,Treatment 2,13.8,88,29,0.33
+Genotype 1,2,Treatment 2,13.4,89,28,0.315
+Genotype 1,3,Treatment 2,9.7,73,17,0.233
+Genotype 1,3,Treatment 2,10.7,75,18,0.24
+Genotype 1,3,Treatment 2,8,70,15,0.214
+Genotype 1,3,Treatment 2,10.1,79,22,0.278
+Genotype 1,3,Treatment 2,13.4,88,22,0.25
+Genotype 1,3,Treatment 2,10.4,81,21,0.259
+Genotype 1,3,Treatment 2,10.7,83,18,0.217
+Genotype 2,1,Control,9.8,85,24,0.282
+Genotype 2,1,Control,9,78,21,0.269
+Genotype 2,1,Control,8,83,26,0.313
+Genotype 2,1,Control,7.7,75,23,0.307
+Genotype 2,1,Control,6.7,75,17,0.227
+Genotype 2,1,Control,6.7,76,20,0.263
+Genotype 2,1,Control,6.7,78,21,0.269
+Genotype 2,2,Control,3.2,40,9,0.225
+Genotype 2,2,Control,7.1,61,10,0.164
+Genotype 2,2,Control,5.8,69,18,0.261
+Genotype 2,2,Control,6.8,73,17,0.233
+Genotype 2,2,Control,5.4,62,19,0.306
+Genotype 2,2,Control,4.8,65,14,0.215
+Genotype 2,3,Control,5.2,64,18,0.281
+Genotype 2,3,Control,5.8,67,13,0.194
+Genotype 2,3,Control,7.6,65,12,0.185
+Genotype 2,3,Control,6.1,75,5,0.067
+Genotype 2,3,Control,4.6,82,22,0.268
+Genotype 2,3,Control,7.1,85,21,0.247
+Genotype 2,3,Control,5.8,36,23,0.639
+Genotype 2,1,Treatment 1,9.4,45,17,0.378
+Genotype 2,1,Treatment 1,6.7,51,14,0.275
+Genotype 2,1,Treatment 1,11.8,27,9,0.333
+Genotype 2,1,Treatment 1,9.9,38,13,0.342
+Genotype 2,1,Treatment 1,9.3,45,19,0.422
+Genotype 2,1,Treatment 1,7.8,22,7,0.318
+Genotype 2,1,Treatment 1,10.4,41,20,0.488
+Genotype 2,2,Treatment 1,9.5,25,12,0.48
+Genotype 2,2,Treatment 1,10.7,60,21,0.35
+Genotype 2,2,Treatment 1,10.9,66,18,0.273
+Genotype 2,2,Treatment 1,8.8,54,21,0.389
+Genotype 2,2,Treatment 1,8,46,20,0.435
+Genotype 2,2,Treatment 1,9.3,56,14,0.25
+Genotype 2,2,Treatment 1,9.4,55,15,0.273
+Genotype 2,3,Treatment 1,9,49,18,0.367
+Genotype 2,3,Treatment 1,8.9,57,23,0.404
+Genotype 2,3,Treatment 1,7.5,37,18,0.486
+Genotype 2,3,Treatment 1,9.7,33,16,0.485
+Genotype 2,3,Treatment 1,9,45,22,0.489
+Genotype 2,3,Treatment 1,7,34,17,0.5
+Genotype 2,3,Treatment 1,8.9,39,10,0.256
+Genotype 2,1,Treatment 2,11.5,77,19,0.247
+Genotype 2,1,Treatment 2,11.1,65,11,0.169
+Genotype 2,1,Treatment 2,9.9,78,17,0.218
+Genotype 2,1,Treatment 2,11,86,22,0.256
+Genotype 2,1,Treatment 2,10.9,74,16,0.216
+Genotype 2,1,Treatment 2,12,78,22,0.282
+Genotype 2,2,Treatment 2,10.6,84,18,0.214
+Genotype 2,2,Treatment 2,11.2,83,17,0.205
+Genotype 2,2,Treatment 2,7.7,74,18,0.243
+Genotype 2,2,Treatment 2,12.3,74,17,0.23
+Genotype 2,2,Treatment 2,9.5,79,16,0.203
+Genotype 2,2,Treatment 2,11.9,76,22,0.289
+Genotype 2,3,Treatment 2,13.1,85,21,0.247
+Genotype 2,3,Treatment 2,13.4,84,17,0.202
+Genotype 2,3,Treatment 2,13.6,75,22,0.293
+Genotype 2,3,Treatment 2,10.8,76,21,0.276
+Genotype 2,3,Treatment 2,13.6,86,18,0.209
+Genotype 2,3,Treatment 2,11.3,81,16,0.198
+Genotype 2,3,Treatment 2,12.3,80,17,0.213
