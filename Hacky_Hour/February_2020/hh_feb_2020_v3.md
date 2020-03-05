@@ -313,8 +313,6 @@ ggplot(df_1, aes(x = as.factor(Genotype),
 
 ![](https://github.com/foriincharli/Stats_Club-Hacky_Hour/blob/master/Hacky_Hour/February_2020/graph_2.png)<!-- -->
 
-<img src="graph_2.png" width="100%" />
-
 Here 'factor = Treatment' was added to the graph aesthetics to tease apart my treatments and the xlab (x axis label) was changed to something more accurate. 
 <br>
 
