@@ -1,11 +1,10 @@
----
+
 title: "AgriBio Stats Club + Hacky Hour"
 author: "Introduction to R and pretty graphs with ggplot2"
 date: "February 26th, 2020"
 output: 
   html_document:
     keep_md: true
----
 
 
 
