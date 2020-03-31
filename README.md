@@ -34,4 +34,4 @@ At the beginning of each session, the presenter tells the group what their exper
 
 [Data to Viz](https://www.data-to-viz.com/) - A fantastic resource for selecting appropriate graphs depending on your data. Also provides code necessary to produce the graph in various languages.
 
-[More books]<https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md>
+[More books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - An exhaustive list of free programming books.
