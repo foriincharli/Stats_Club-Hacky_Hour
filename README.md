@@ -33,3 +33,5 @@ At the beginning of each session, the presenter tells the group what their exper
 [R for Data Science](https://r4ds.had.co.nz/) - This is written by the chief scientist of RStudio, Hadley Wickham, whose philosophy is that the data analysis comes first, and coding is learnt along the way.
 
 [Data to Viz](https://www.data-to-viz.com/) - A fantastic resource for selecting appropriate graphs depending on your data. Also provides code necessary to produce the graph in various languages.
+
+[More books]<free-programming-books.md>
