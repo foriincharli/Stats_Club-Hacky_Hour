@@ -2,7 +2,7 @@
  
  ~ | Stats Club | Hacky Hour
 ------------ | ------------- | -------------
-February | [Minutes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | [Lesson plan and dataset](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Hacky_Hour/February_2020)
+February | [Minutes](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Stats_Club/February_2020) | [(R)efresher - Lesson plan and dataset](https://github.com/foriincharli/Stats_Club-Hacky_Hour/tree/master/Hacky_Hour/February_2020)
 March | [Insect choice analysis](https://foriincharli.github.io/Stats_Club-Hacky_Hour/Stats_Club/March_2020/choice_analysis.html) | Social event/Zoom practice
 April |  |
 
