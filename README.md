@@ -1,6 +1,6 @@
 # Stats Club + Hacky Hour
  
- ~ | Stats Club | Hacky Hour
+ [Home](https://foriincharli.github.io/Stats_Club-Hacky_Hour/) | Stats Club | Hacky Hour
 ------------ | ------------- | -------------
 February | [Minutes](https://foriincharli.github.io/Stats_Club-Hacky_Hour/Stats_Club/February_2020/) | [(R)efresher - Lesson plan and dataset](https://foriincharli.github.io/Stats_Club-Hacky_Hour/Hacky_Hour/February_2020/)
 March | [Insect choice analysis](https://foriincharli.github.io/Stats_Club-Hacky_Hour/Stats_Club/March_2020/choice_analysis.html) | Social event/Zoom practice
