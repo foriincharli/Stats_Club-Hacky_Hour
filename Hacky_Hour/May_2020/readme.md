@@ -1,13 +1,5 @@
----
-title: "R Markdown Tutorial - Hacky Hour"
-author: "Charlotte"
-date: "02/05/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# R Markdown Tutorial - Hacky Hour"
+## May 6th, 2020
 
 ## Aims
 
@@ -59,14 +51,14 @@ These instructions provide the following pieces of information to the compiler:
 
 **Note: chunk names must be unique, or it will give an error**
 
-```{r calculator_chunk, include = TRUE}
+```r
 # convert Fahrenheit to Celsius
 paste("Temperature in Celsius:", round(((360 - 32) * 5/9), 2))
 ```
 
 
 If you are creating an R Markdown file that you want to run that refers to an object, you must create that object first. 
-```{r example_1, include = TRUE, error = TRUE}
+```r
 plot(houseplants)
 ```
 
@@ -74,12 +66,12 @@ Attempting to use an object called 'houseplants' that doesn't already exist in t
 
 Similarly, if you're loading a dataframe from a `.csv` or a `.txt` document, you must include the code in the `.Rmd`.
 
-```{r example_2, include = TRUE, eval = FALSE}
+```r
 houseplants <- read.csv("/Desktop/folder/houseplants.csv")
 ```
 
 
-```{r}
+```r
 houseplants <- c("Fiddle leaf fig", "Swiss cheese plant", "Zanzibar Gem", "Chinese Money Plant", "Cactus") 
 height_cm <- c(167, 92, 55, 23, 11)
 colour <- c("Malachite", "Viridian", "Smaragdine", "Emerald", "Celadon")
